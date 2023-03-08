@@ -31,6 +31,6 @@
   "secondaryTokenAttribute": "",
   "url": "https://github.com/NeroKyusi/ma20th-foundry-vtt",
   "manifest": "https://raw.githubusercontent.com/NeroKyusi/ma20th-foundry-vtt/master/system.json",
-  "download": "https://github.com/NeroKyusi/ma20th-foundry-vtt/releases/tag/Test",
+  "download": "https://github.com/NeroKyusi/ma20th-foundry-vtt/archive/refs/tags/Test.zip",
   "license": "LICENSE.txt"
 }
